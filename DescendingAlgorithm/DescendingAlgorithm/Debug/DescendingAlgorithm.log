@@ -1,0 +1,22 @@
+﻿  DescendingParser.cpp
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(96,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(134,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(167,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(205,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(232,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(234,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(283,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(299,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(303,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(325,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(350,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(357,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(364,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(366,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(473,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(494,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(526,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\DescendingAlgorithm\DescendingParser.cpp(530,19): warning C4018: >=: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+  DescendingAlgorithm.vcxproj -> C:\EarleAlgoritm\DescendingAlgorithm\Debug\DescendingAlgorithm.exe

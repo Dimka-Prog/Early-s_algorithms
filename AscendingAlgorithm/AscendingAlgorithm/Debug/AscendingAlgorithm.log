@@ -1,0 +1,23 @@
+﻿  AscendingParser.cpp
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(96,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(146,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(179,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(229,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(256,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(304,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(320,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(349,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(356,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(363,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(447,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(468,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(513,14): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(521,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(540,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(548,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(576,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(580,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\AscendingAlgorithm\AscendingParser.cpp(595,23): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+  AscendingAlgorithm.vcxproj -> C:\EarleAlgoritm\AscendingAlgorithm\Debug\AscendingAlgorithm.exe

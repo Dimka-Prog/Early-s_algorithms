@@ -1,0 +1,13 @@
+﻿  EarlyParser.cpp
+C:\Users\dimas\Downloads\EarleyAlgorithm\EarlyParser.cpp(96,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\EarleyAlgorithm\EarlyParser.cpp(134,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\EarleyAlgorithm\EarlyParser.cpp(167,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\EarleyAlgorithm\EarlyParser.cpp(205,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\EarleyAlgorithm\EarlyParser.cpp(281,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\EarleyAlgorithm\EarlyParser.cpp(322,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\EarleyAlgorithm\EarlyParser.cpp(329,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\EarleyAlgorithm\EarlyParser.cpp(443,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dimas\Downloads\EarleyAlgorithm\EarlyParser.cpp(464,21): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+  EarleyAlgorithm.vcxproj -> C:\EarleAlgoritm\EarleyAlgorithm\Debug\EarleyAlgorithm.exe
